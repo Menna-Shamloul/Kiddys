@@ -24,7 +24,17 @@ h1, h2{
 #logo{
     float: left;
     font-size: 260%;
-    
+
+}
+#menu{
+    font-size: 100%;
+    letter-spacing: 3px;
+
+}
+#menu li{
+    float: right;
+    list-style-type: none;
+    margin: 30px;
 }
 header{
     background-color: #ffffff;
