@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    border: none;
 }
 body{
     min-height: 100vh;
@@ -14,7 +15,17 @@ body{
     font-family: lato, sans-serif;
     font-weight: 300;
 }
-
+h1, h2{
+    font-family: Oswald,sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #000000;
+}
+#logo{
+    float: left;
+    font-size: 260%;
+    
+}
 header{
     background-color: #ffffff;
     
