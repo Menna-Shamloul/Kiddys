@@ -49,6 +49,12 @@ h1, h2{
 .active{
     border-bottom: 1px solid #000000;
 }
+#hero-image{
+    height: 700px;
+    width:;
+    background: url("../images/hero-image.jpg");
+    position: relative;
+}
 header{
     background-color: #ffffff;
     
