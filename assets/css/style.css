@@ -24,6 +24,7 @@ h1, h2{
 #logo{
     float: left;
     font-size: 260%;
+    margin-left: 30px;
 
 }
 #menu{
@@ -79,6 +80,13 @@ header{
 main{
     background-color: #ffffff;
     flex: 1 0 auto;
+}
+#kids-shop{
+    height: 600px;
+}
+#kids-shop>p{
+    width: 33%;
+    margin: 0 auto;
 }
 footer{
     background-color: #ffffff;
