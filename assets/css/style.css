@@ -87,6 +87,18 @@ main{
 #kids-shop>p{
     width: 33%;
     margin: 0 auto;
+    font-size: 140%;
+    
+}
+#welcome{
+    text-align: center;
+    margin: 50px 0;
+    font-size: 230%;
+}
+#end-image{
+    height: 400px; 
+    width: 100%;
+    background:url("../images/end-image.jpg") no-repeat center center/cover;
 }
 footer{
     background-color: #ffffff;
