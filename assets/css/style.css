@@ -120,5 +120,20 @@ footer{
 #cover-image{
     height: 600px;
     width: 100%;
-    background: url("../images/cover-image.jpg") no-repeat center bottom/cover;
+    background: url("../images/cover-image.jpg") no-repeat center top/cover;
+}
+#shop-profile{
+    height: 600px;
+}
+#shop-profile> p{
+    width: 33%;
+    margin: 0 auto;
+    font: 140%;
+    line-height: 1.7;
+}
+#about{
+    text-align: center;
+    margin: 50px 0;
+    font-size: 230%;
+    letter-spacing: 3px;
 }
