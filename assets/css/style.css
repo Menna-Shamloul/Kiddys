@@ -139,6 +139,7 @@ footer{
 }
 #kids-outfits{
     height: 600px;
+    margin-left: 300px;
 }
 
 #left-outfits{
@@ -150,8 +151,41 @@ footer{
     padding-top: 30px;
     width: 33%;
     float: right;
+
 }
 #center-outfits{
     width: 33%;
     margin: 0 auto;
+}
+.left-outfits-image{
+    width: 40%;
+    margin-bottom: 50px;
+    
+}    
+#kiddy{
+    text-align: center;
+    margin-right: 300px;
+    font-size: 230%;
+}
+.left-outfits-image> img{
+    height: 300px;
+    width: 100%;
+}
+.right-outfits-image{
+    width: 40%;
+    margin-bottom: 50px;
+}
+.right-outfits-image> img{
+    height: 300px;
+    width: 100%;
+}
+.center-outfits-image{
+    width: 40%;
+    margin-bottom: 80px;
+}
+.center-outfits-image> img{
+    height: 300px;
+    width: 100%;
+
+    
 }
