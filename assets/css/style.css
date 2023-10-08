@@ -137,3 +137,21 @@ footer{
     font-size: 230%;
     letter-spacing: 3px;
 }
+#kids-outfits{
+    height: 600px;
+}
+
+#left-outfits{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+#right-outfits{
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+#center-outfits{
+    width: 33%;
+    margin: 0 auto;
+}
