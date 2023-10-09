@@ -166,51 +166,36 @@ footer{
 #about{
     text-align: center;
     margin: 50px 0;
-    font-size: 230%;
+    font-size: 280%;
     letter-spacing: 3px;
 }
 #kids-outfits{
-    height: 600px;
-    margin-left: 300px;
+    max-width: 900px;
+    margin: auto;
+    box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.1), -30px 0px 40px rgba(0, 0, 0, 0.1);
+
 }
 
-#left-outfits > div,
-#right-outfits > div,
-#center-outfits > div{
-    line-height: 20px;
-    margin-bottom: 20px;
-}
-.left-outfits-image{
-    width: 40%;
-    margin-bottom: 50px;
-    
-}    
+  
 #kiddy{
     text-align: center;
-    margin-right: 300px;
-    font-size: 230%;
+    font-size: 2.5rem;
+    display:flex ;
+    flex: 0 1 40vw;
+    height: 10vh;
+    justify-content: center;
+    padding-left: 1rem;
+    padding:1.2rem;
+    margin:2rem 0 0;
 }
-.left-outfits-image> img{
-    height: 300px;
-    width: 100%;
-}
-.right-outfits-image{
-    width: 40%;
-    margin-bottom: 50px;
-}
-.right-outfits-image> img{
-    height: 300px;
-    width: 100%;
-}
-.center-outfits-image{
-    width: 40%;
-    margin-bottom: 80px;
-}
-.center-outfits-image> img{
-    height: 300px;
-    width: 100%;
 
-    
+.products> img{
+    display: block;
+    width: 100%;
+}
+.products> p{
+    padding: 0.8;
+    text-align: center;
 }
 #contactus{
     background-image: url("../images/contactus-image.jpg");
@@ -311,7 +296,12 @@ footer{
     #contactus-form> h5{
         font-size: 200%;
     }
-    
+    #shop-profile> p{
+        font-size: 150%;
+    }
+    #kids-shop> p{
+        font-size: 150%;
+    }
         
 
 
