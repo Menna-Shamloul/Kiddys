@@ -234,6 +234,12 @@ footer{
     background-color: #000000;
     color: #ffffff;
 }
+@media screen and (min-width:576px){
+    #cloth{
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 @media screen and (min-width: 768px) {
     nav{
         display: block;
@@ -301,6 +307,10 @@ footer{
     }
     #kids-shop> p{
         font-size: 150%;
+    }
+    #cloth{
+        column-count: 3;
+        column-gap: 0;
     }
         
 
