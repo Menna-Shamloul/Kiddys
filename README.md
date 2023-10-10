@@ -1,12 +1,11 @@
-#header 1
+# Kiddy's
 
-##header 2
-###Contents
 
-####header 4
-#####header 5
-######header 6
-### Contents
+### header 3
+#### header 4
+##### header 5
+###### header 6
+## Contents
 * User Experience UX
    * Site Structure
    * Design Choices
@@ -28,3 +27,6 @@
   * Content
   * Media
 * Acknowledgments
+
+## User Experience (UX)
+### Site Structure
