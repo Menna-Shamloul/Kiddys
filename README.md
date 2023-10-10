@@ -47,7 +47,12 @@ Kiddy's website has four pages. The **home page** is default loading page, **abo
 ### Design Choices
  * #### Typography
    The fonts chosen were 'Oswald' for the heading and 'Lato' for the body text.
-         * 'Oswald' was chosen for the heading
+         * 'Oswald' was chosen for the heading to give the user an intal good feel.
+         * 'Lato' is used for the body text because it easy to read for all.
  * #### Colour Scheme 
    The colour scheme eventually chosen is one based on black and white. The colour contrasts with the cotton colour which is the main materials in my industry.
    ![alt text](https://coolors.co/937e6b-ab9e96-d7dee2-b0b7bd-58554f)
+
+## Features
+Kiddy's is set up to be easy to use. It contains alot of features that the user will need such as a navigation bar and contact form. 
+ * ### Existing Features
