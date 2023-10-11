@@ -67,3 +67,6 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
 * ### Footer
   * Contains social media links. Make the links open in other tabs to be easy for the users.
   * The social media presence will help the users with their research into site and will attract the users to connects with Kiddy's.
+* ### About-US
+  * The About Us page provide the users with the details about the site( what kids is and who we are ).
+*
