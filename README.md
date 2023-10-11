@@ -77,6 +77,15 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
  * Codeanywhere-used to deploy the website.
  * Github-used to host and edit the website.
 ## Testing
+ * I tested that this page works in many browsers: chrome, edge, safari.
+ * I checked that this project is responsive, looks good and functions on all screen sizes using the devtools device toolbar.
+ * I checked that the navigations, header, about us,texts and contact us are all readable.
+ * I checked that the form works: requires entries in every field, only accept an email in the email field and the submit button works.
+### Validator Testing
+ * HTML
+ * CSS
+ * Accessibility
+   
 ## Deployment
 ### To deploy the project
 The sit was deployed to GitHub pages. The steps to deploy;
@@ -92,4 +101,4 @@ The sit was deployed to GitHub pages. The steps to deploy;
 ### Media
  * The photos came from Pinterest and .
 ### Acknowledgements
-The website was completed as a **Portfolio 1 Project**
+The website was completed as a **Portfolio 1 Project** , I would like to thank Precious Ijege, my mentor, for his assistance with my first profile project. I want to express my gratitude to David Calikes for his ongoing assistance and support.Additionally, the entire Code institute for their helpful advice and ongoing support. Without you, this project would not have been finished, thus I want to thank you all.
