@@ -69,4 +69,8 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
   * The social media presence will help the users with their research into site and will attract the users to connects with Kiddy's.
 * ### About-US
   * The About Us page provide the users with the details about the site( what kids is and who we are ).
-*
+* ### Shop
+  * The shop page contain our kids outfits to show the users our productus and to attract them to our site.
+  * The shop page contain kids outfits photots for girls and boys.
+* ### Contact Us
+  *
