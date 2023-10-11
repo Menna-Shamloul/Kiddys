@@ -1,39 +1,95 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Kiddy's
+Kiddy's is a children's clothing store that uses organic cotton to guarantee the highest quality. Because our designs are distinctive, parents participate in the creation process. Our unique blend of materials, designs, and colours is what makes us who we are.
 
-Welcome,
+Welcome to the world of Kiddy's (https://menna-shamloul.github.io/Kiddys/)
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Contents
+* User Experience UX
+   * Site Structure
+   * Design Choices
+   * Typography
+   * Colour Scheme
+* Features
+   * Home
+     * Navigation menu
+     * photos
+     * Text
+     * Footer
+   * About Us
+     * About-us
+     * photos
+     * footer
+   * Shop
+     * Navigation menu
+     * Photos
+     * Footer
+    * Contact Us
+      * Navigation menu
+      * Contact details
+      * Design Query form
+      * Footer
+* Technologies Used
+* Testing
+* Deployment
+* Credits
+  * Content
+  * Media
+* Acknowledgments
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## User Experience (UX)
+### Site Structure
+Kiddy's website has four pages. The **home page** is default loading page, **about**, **shop** and **contact** pages are all accessible primarily from the navigation menu.
+### Design Choices
+ * #### Typography
+   The fonts chosen were 'Oswald' for the heading and 'Lato' for the body text.
+         * 'Oswald' was chosen for the heading to give the user an intal good feel.
+         * 'Lato' is used for the body text because it easy to read for all.
+ * #### Colour Scheme 
+   The colour scheme eventually chosen is one based on black and white. The colour contrasts with the cotton colour which is the main materials in my industry.
+   ![alt text](https://coolors.co/937e6b-ab9e96-d7dee2-b0b7bd-58554f)
 
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+## Features
+Kiddy's is set up to be easy to use. It contains alot of features that the user will need such as a navigation bar and contact form. 
+### Existing Features
+* #### Navigation Menu
+  * Appear at the top of all pages in the site, it fully responsive and contains links to all page in the site to make it easy to the users.
+  * The logo is clickable with a link back to home page for intensify UX:
+  <img>
+* #### Photos
+  * Located on the home page beneath the logo to attract the users more to the main idea of the site which is kids fashions.
+* ### Text
+  * Located under the hero photo to say wellcome to the users and to describe what is the main idea and purpose for the site.
+*  ### Footer
+  * Contains social media links. Make the links open in other tabs to be easy for the users.
+  * The social media presence will help the users with their research into site and will attract the users to connects with Kiddy's.
+* ### About-US
+  * The About Us page provide the users with the details about the site( what kids is and who we are ).
+* ### Shop
+  * The shop page contain our kids outfits to show the users our productus and to attract them to our site.
+  * The shop page contain kids outfits photots for girls and boys.
+* ### Contact Us
+  * The Contact Us page provide the users with  the shop address.
+  * There is Contact Us form which the users could use to contact us(for purchasing or send feedback messages).
+  * It  has 4 inputs (first name, last name, email address, message).
+## Technologies Used
+ * HTML5- provides the content and structure for the website.
+ * CSS-provides styling.
+ * Codeanywhere-used to deploy the website.
+ * Github-used to host and edit the website.
+## Testing
+## Deployment
+### To deploy the project
+The sit was deployed to GitHub pages. The steps to deploy;
+ 1. In the GitHub repository, move to the **Settings** tab.
+ 2. In Settings tab, move to the **Pages** tab on the left hand side.
+ 3. Under **Source**, select the branch to **main** then click **save**.
+ 4. After that the page will be automatically refreshed with detailed ribbon display to indicated the successful deployment.
+## Creadits
+### Content
+ * The font took from Google fonts.
+ * The icons from Font Awesome.
+ * The favicon from Favicon.io
+### Media
+ * The photos came from Pinterest and .
+### Acknowledgements
+The website was completed as a **Portfolio 1 Project**
