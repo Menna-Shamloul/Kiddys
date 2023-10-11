@@ -90,3 +90,10 @@ The sit was deployed to GitHub pages. The steps to deploy;
  3. Under Source, select the branch to main then click save.
  4. After that the page will be automatically refreshed with detailed ribbon display to indicated the successful deployment.
 ## Creadits
+### Content
+ * The font took from Google fonts.
+ * The icons from Font Awesome.
+ * The favicon from Favicon.io
+### Media
+ * The photos came from Pinterest and .
+### Acknowledgements
