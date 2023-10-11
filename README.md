@@ -73,4 +73,6 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
   * The shop page contain our kids outfits to show the users our productus and to attract them to our site.
   * The shop page contain kids outfits photots for girls and boys.
 * ### Contact Us
-  *
+  * The Contact Us page provide the users with  the shop address.
+  * There is Contact Us form which the users could use to contact us(for purchasing or send feedback messages).
+  * It  has 4 inputs (first name, last name, email address, message)
