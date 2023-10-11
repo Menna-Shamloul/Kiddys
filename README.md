@@ -7,10 +7,10 @@ Welcome to the world of <a href="https://menna-shamloul.github.io/Kiddys" target
 - [**_Kiddy's_**](#kiddys)
 - [Contents](#contents)
 - [User Experience (UX)](#user-experience-ux)
-    - [Site Structure](#site-structure)
-    - [Design Choices](#design-choices)
-  - [Features](#features)
-    - [Existing Features](#existing-features)
+  - [Site Structure](#site-structure)
+  - [Design Choices](#design-choices)
+- [Features](#features)
+  - [Existing Features](#existing-features)
   - [Technologies Used](#technologies-used)
   - [Testing](#testing)
     - [Validator Testing](#validator-testing)
@@ -22,24 +22,31 @@ Welcome to the world of <a href="https://menna-shamloul.github.io/Kiddys" target
     - [Acknowledgements](#acknowledgements)
 
 # User Experience (UX)
-### Site Structure
-Kiddy's website has four pages. The **home page** is default loading page, **about**, **shop** and **contact** pages are all accessible primarily from the navigation menu.
-### Design Choices
- * #### Typography
-   The fonts chosen were 'Oswald' for the heading and 'Lato' for the body text.
-         * 'Oswald' was chosen for the heading to give the user an intal good feel.
-         * 'Lato' is used for the body text because it easy to read for all.
- * #### Colour Scheme 
-   The colour scheme eventually chosen is one based on black and white. The colour contrasts with the cotton colour which is the main materials in my industry.
-   ![alt text](https://coolors.co/937e6b-ab9e96-d7dee2-b0b7bd-58554f)
+## Site Structure
+Kiddy's website has four pages. The [home page](index.html) is default loading page,[about us](aboutus.html), [shop](shop.html) and [contact us](Contactus.html) pages are all accessible primarily from the navigation menu.
 
-## Features
+[Back to top](<#contents>)
+## Design Choices
+
+ * ### Typography
+      The fonts chosen were 'Oswald' for the heading and 'Lato' for the body text.
+     * 'Oswald' was chosen for the heading to give the user an intal good feel.
+      * 'Lato' is used for the body text because it easy to read for all.
+ * ### Colour Scheme 
+      The colour scheme eventually chosen is one based on black and white. The colour contrasts with the cotton colour which is the main materials in my industry.
+   ![Color plate image](https://coolors.co/937e6b-ab9e96-d7dee2-b0b7bd-58554f)
+
+[Back to top](<#contents>)
+# Features
 Kiddy's is set up to be easy to use. It contains alot of features that the user will need such as a navigation bar and contact form. 
-### Existing Features
-* #### Navigation Menu
-  * Appear at the top of all pages in the site, it fully responsive and contains links to all page in the site to make it easy to the users.
-  * The logo is clickable with a link back to home page for intensify UX:
-  <img>
+## Existing Features
+  * ### Navigation Menu
+  
+    * Appear at the top of all pages in the site, it fully responsive and contains links to all page in the site to make it easy to the users.
+    * The logo is clickable with a link back to home page for intensify UX.
+  
+  ![Navigation bar image]()
+  [Back to top](<#contents>)
 * #### Photos
   * Located on the home page beneath the logo to attract the users more to the main idea of the site which is kids fashions.
 * ### Text
