@@ -21,6 +21,9 @@ h1, h2{
     letter-spacing: 3px;
     color: #000000;
 }
+.hidden-heading{
+    display: none;
+}
 #logo{
     float: left;
     font-size: 260%;
