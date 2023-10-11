@@ -38,7 +38,7 @@ h1, h2{
 }
 
 #menu> li{
-    margin-bottom: 1 rem;
+    margin-bottom: 1rem;
 }
 #menu a{
     text-decoration: none;
@@ -197,7 +197,7 @@ footer{
     width: 100%;
 }
 .products> p{
-    padding: 0.8;
+    padding: 0.8rem;
     text-align: center;
 }
 #contactus{
@@ -294,7 +294,7 @@ footer{
     }
     
     #contactus{   
-         background-position: center center/cover;
+         background-position: cover;
     }
     #contactus-form{
         max-width: 100%;
