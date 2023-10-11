@@ -85,9 +85,9 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
 ## Deployment
 ### To deploy the project
 The sit was deployed to GitHub pages. The steps to deploy;
- 1. In the GitHub repository, move to the Settings tab.
- 2. In Settings tab, move to pages tab on the left hand side.
- 3. Under Source, select the branch to main then click save.
+ 1. In the GitHub repository, move to the **Settings** tab.
+ 2. In Settings tab, move to the **Pages** tab on the left hand side.
+ 3. Under **Source**, select the branch to **main** then click **save**.
  4. After that the page will be automatically refreshed with detailed ribbon display to indicated the successful deployment.
 ## Creadits
 ### Content
@@ -97,3 +97,4 @@ The sit was deployed to GitHub pages. The steps to deploy;
 ### Media
  * The photos came from Pinterest and .
 ### Acknowledgements
+The website was completed as a **Portfolio 1 Project**
