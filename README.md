@@ -55,4 +55,10 @@ Kiddy's website has four pages. The **home page** is default loading page, **abo
 
 ## Features
 Kiddy's is set up to be easy to use. It contains alot of features that the user will need such as a navigation bar and contact form. 
- * ### Existing Features
+### Existing Features
+* #### Navigation Menu
+  * Appear at the top of all pages in the site, it fully responsive and contains links to all page in the site to make it easy to the users.
+  * The logo is clickable with a link back to home page for intensify UX:
+  <img>
+* #### photos
+  * Located on the home page beneath the logo to attract the users more to the main idea of the site which is kids fashions.
