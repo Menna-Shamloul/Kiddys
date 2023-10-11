@@ -1,4 +1,5 @@
-# **_Kiddy's_**
+# **_Kiddy's_** <!-- omit in toc -->
+
 Kiddy's is a children's clothing store that uses organic cotton to guarantee the highest quality. Because our designs are distinctive, parents participate in the creation process. Our unique blend of materials, designs, and colours is what makes us who we are.
 
 Welcome to the world of <a href="https://menna-shamloul.github.io/Kiddys" target="_blank" rel="noopener">Kiddy's</a>
@@ -6,20 +7,20 @@ Welcome to the world of <a href="https://menna-shamloul.github.io/Kiddys" target
 # Contents <!-- omit in toc -->
   
    
-- [**_Kiddy's_**](#kiddys) <!-- omit in toc -->
+
 - [User Experience (UX)](#user-experience-ux)
   - [Site Structure](#site-structure)
   - [Design Choices](#design-choices)
 - [Features](#features)
   - [Existing Features](#existing-features)
-- [Technologies Used](#technologies-used)
+  - [Technologies Used](#technologies-used)
   - [Testing](#testing)
     - [Validator Testing](#validator-testing)
-- [Deployment](#deployment)
+  - [Deployment](#deployment)
     - [To deploy the project](#to-deploy-the-project)
     - [To fork the repository on GitHub](#to-fork-the-repository-on-github)
     - [To create a local clone of this project](#to-create-a-local-clone-of-this-project)
-- [Creadits](#creadits)
+  - [Creadits](#creadits)
     - [Content](#content)
     - [Media](#media)
     - [Acknowledgements](#acknowledgements)
