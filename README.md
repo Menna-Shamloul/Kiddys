@@ -3,11 +3,6 @@ Kiddy's is a children's clothing store that uses organic cotton to guarantee the
 
 Welcome to the world of Kiddy's (https://menna-shamloul.github.io/Kiddys/)
 
-
-### header 3
-#### header 4
-##### header 5
-###### header 6
 ## Contents
 * User Experience UX
    * Site Structure
