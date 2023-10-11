@@ -60,5 +60,10 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
   * Appear at the top of all pages in the site, it fully responsive and contains links to all page in the site to make it easy to the users.
   * The logo is clickable with a link back to home page for intensify UX:
   <img>
-* #### photos
+* #### Photos
   * Located on the home page beneath the logo to attract the users more to the main idea of the site which is kids fashions.
+* ### Text
+  * Located under the hero photo to say wellcome to the users and to describe what is the main idea and purpose for the site.
+* ### Footer
+  * Contains social media links. Make the links open in other tabs to be easy for the users.
+  * The social media presence will help the users with their research into site and will attract the users to connects with Kiddy's.
