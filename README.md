@@ -64,7 +64,7 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
   * Located on the home page beneath the logo to attract the users more to the main idea of the site which is kids fashions.
 * ### Text
   * Located under the hero photo to say wellcome to the users and to describe what is the main idea and purpose for the site.
-* ### Footer
+*  ### Footer
   * Contains social media links. Make the links open in other tabs to be easy for the users.
   * The social media presence will help the users with their research into site and will attract the users to connects with Kiddy's.
 * ### About-US
@@ -75,4 +75,18 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
 * ### Contact Us
   * The Contact Us page provide the users with  the shop address.
   * There is Contact Us form which the users could use to contact us(for purchasing or send feedback messages).
-  * It  has 4 inputs (first name, last name, email address, message)
+  * It  has 4 inputs (first name, last name, email address, message).
+## Technologies Used
+ * HTML5- provides the content and structure for the website.
+ * CSS-provides styling.
+ * Codeanywhere-used to deploy the website.
+ * Github-used to host and edit the website.
+## Testing
+## Deployment
+### To deploy the project
+The sit was deployed to GitHub pages. The steps to deploy;
+ 1. In the GitHub repository, move to the Settings tab.
+ 2. In Settings tab, move to pages tab on the left hand side.
+ 3. Under Source, select the branch to main then click save.
+ 4. After that the page will be automatically refreshed with detailed ribbon display to indicated the successful deployment.
+## Creadits
