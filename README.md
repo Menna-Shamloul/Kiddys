@@ -82,9 +82,15 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
  * I checked that the navigations, header, about us,texts and contact us are all readable.
  * I checked that the form works: requires entries in every field, only accept an email in the email field and the submit button works.
 ### Validator Testing
+
  * HTML
+  * No errors found when passing through the official W3C validators.
+  
  * CSS
+  * No errors found when passing through the official (jigsaw) validators.
+  
  * Accessibility
+  * I checked that the colors and the fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
    
 ## Deployment
 ### To deploy the project
