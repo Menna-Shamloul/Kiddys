@@ -16,11 +16,12 @@ Welcome to the world of <a href="https://menna-shamloul.github.io/Kiddys" target
     - [Validator Testing](#validator-testing)
   - [Deployment](#deployment)
     - [To deploy the project](#to-deploy-the-project)
+    - [To fork the repository on GitHub](#to-fork-the-repository-on-github)
+    - [To create a local clone of this project](#to-create-a-local-clone-of-this-project)
   - [Creadits](#creadits)
     - [Content](#content)
     - [Media](#media)
     - [Acknowledgements](#acknowledgements)
-
 # User Experience (UX)
 ## Site Structure
 Kiddy's website has four pages. The [home page](index.html) is default loading page,[about us](aboutus.html), [shop](shop.html) and [contact us](Contactus.html) pages are all accessible primarily from the navigation menu.
@@ -34,7 +35,7 @@ Kiddy's website has four pages. The [home page](index.html) is default loading p
       * 'Lato' is used for the body text because it easy to read for all.
  * ### Colour Scheme 
       The colour scheme eventually chosen is one based on black and white. The colour contrasts with the cotton colour which is the main materials in my industry.
-   ![Color plate image](https://coolors.co/937e6b-ab9e96-d7dee2-b0b7bd-58554f)
+   ![Color plate image](assets/readme_images/colourscheme.jpg)
 
 [Back to top](<#contents>)
 # Features
@@ -47,11 +48,11 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
   
   ![Navigation bar image]()
   [Back to top](<#contents>)
-* #### Photos
+  * ### Photos
   * Located on the home page beneath the logo to attract the users more to the main idea of the site which is kids fashions.
-* ### Text
+  * ### Text
   * Located under the hero photo to say wellcome to the users and to describe what is the main idea and purpose for the site.
-*  ### Footer
+  * ### Footer
   * Contains social media links. Make the links open in other tabs to be easy for the users.
   * The social media presence will help the users with their research into site and will attract the users to connects with Kiddy's.
 * ### About-Us
@@ -91,6 +92,23 @@ The sit was deployed to GitHub pages. The steps to deploy;
  2. In Settings tab, move to the **Pages** tab on the left hand side.
  3. Under **Source**, select the branch to **main** then click **save**.
  4. After that the page will be automatically refreshed with detailed ribbon display to indicated the successful deployment.
+![GitHub pages deployed image]()
+###  To fork the repository on GitHub
+A copy of the Github Repository can be made by forking the Github account. this copy can be viewed and changes can be made to the copy. Take the following steps to fork the Repository:
+
+1. Log into the **Github** and locate the Repository.
+2. On the right hand side of the page in line with the Repository name is a button called **Fork**, click on the Button to create a copy of the Original Repository in your Github.
+![GitHub forking process image]()
+### To create a local clone of this project
+The method from cloning a project from GitHub:
+
+1. Under the Repository's name, click on the **code** tab.
+2. in the **Clone with HTTPS** section, click on clipboard icon to copy the URL.
+3. in your IDE of choice, open **Git Bash**.
+4. Change the current working directoryto the location where you want the cloned directory to be made.
+5. type **git clone**,and then paste the URL copied from GitHub.
+6. press**enter** and the local clone will be created.
+
 ## Creadits
 ### Content
 
@@ -98,12 +116,12 @@ The sit was deployed to GitHub pages. The steps to deploy;
 * The icons from [font Awesome](https://fontawesome.com/).
 * The favicon from [favicon.io](https://favicon.io/).
 * The color plate from [coolors.co](http://Coolors.co).
-* Some codes take from
+- Some codes take from the repository in [GitHub](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/7.2-styling-the-form/assets/css/style.css)
 
 
 ### Media
 
-* The photos came from [Pinterest](https://www.pinterest.com) and .
+- The photos came from [Pinterest](https://www.pinterest.com) and [unsplash](https://unsplash.com)
 
 ### Acknowledgements
 The website was completed as a **Portfolio 1 Project** , I would like to thank Precious Ijege, my mentor, for his assistance with my first profile project. I want to express my gratitude to David Calikes for his ongoing assistance and support.Additionally, the entire Code institute for their helpful advice and ongoing support. Without you, this project would not have been finished, thus I want to thank you all.
