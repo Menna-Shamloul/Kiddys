@@ -1,42 +1,27 @@
-# Kiddy's
+# **_Kiddy's_**
 Kiddy's is a children's clothing store that uses organic cotton to guarantee the highest quality. Because our designs are distinctive, parents participate in the creation process. Our unique blend of materials, designs, and colours is what makes us who we are.
 
-Welcome to the world of Kiddy's <a href="https://menna-shamloul.github.io/Kiddys" target="_blank" rel="noopener">Kiddy's</a>
+Welcome to the world of <a href="https://menna-shamloul.github.io/Kiddys" target="_blank" rel="noopener">Kiddy's</a>
 
-## Contents
-* User Experience UX
-   * Site Structure
-   * Design Choices
-   * Typography
-   * Colour Scheme
-* Features
-   * Home
-     * Navigation menu
-     * photos
-     * Text
-     * Footer
-   * About Us
-     * About-us
-     * photos
-     * footer
-   * Shop
-     * Navigation menu
-     * Photos
-     * Footer
-    * Contact Us
-      * Navigation menu
-      * Contact details
-      * Design Query form
-      * Footer
-* Technologies Used
-* Testing
-* Deployment
-* Credits
-  * Content
-  * Media
-* Acknowledgments
+# Contents
+- [**_Kiddy's_**](#kiddys)
+- [Contents](#contents)
+- [User Experience (UX)](#user-experience-ux)
+    - [Site Structure](#site-structure)
+    - [Design Choices](#design-choices)
+  - [Features](#features)
+    - [Existing Features](#existing-features)
+  - [Technologies Used](#technologies-used)
+  - [Testing](#testing)
+    - [Validator Testing](#validator-testing)
+  - [Deployment](#deployment)
+    - [To deploy the project](#to-deploy-the-project)
+  - [Creadits](#creadits)
+    - [Content](#content)
+    - [Media](#media)
+    - [Acknowledgements](#acknowledgements)
 
-## User Experience (UX)
+# User Experience (UX)
 ### Site Structure
 Kiddy's website has four pages. The **home page** is default loading page, **about**, **shop** and **contact** pages are all accessible primarily from the navigation menu.
 ### Design Choices
@@ -62,7 +47,7 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
 *  ### Footer
   * Contains social media links. Make the links open in other tabs to be easy for the users.
   * The social media presence will help the users with their research into site and will attract the users to connects with Kiddy's.
-* ### About-US
+* ### About-Us
   * The About Us page provide the users with the details about the site( what kids is and who we are ).
 * ### Shop
   * The shop page contain our kids outfits to show the users our productus and to attract them to our site.
@@ -101,10 +86,17 @@ The sit was deployed to GitHub pages. The steps to deploy;
  4. After that the page will be automatically refreshed with detailed ribbon display to indicated the successful deployment.
 ## Creadits
 ### Content
- * The font took from Google fonts.
- * The icons from Font Awesome.
- * The favicon from Favicon.io
+
+* The font took from [Google fonts](https://fonts.google.com).
+* The icons from [font Awesome](https://fontawesome.com/).
+* The favicon from [favicon.io](https://favicon.io/).
+* The color plate from [coolors.co](http://Coolors.co).
+* Some codes take from
+
+
 ### Media
- * The photos came from Pinterest and .
+
+* The photos came from [Pinterest](https://www.pinterest.com) and .
+
 ### Acknowledgements
 The website was completed as a **Portfolio 1 Project** , I would like to thank Precious Ijege, my mentor, for his assistance with my first profile project. I want to express my gratitude to David Calikes for his ongoing assistance and support.Additionally, the entire Code institute for their helpful advice and ongoing support. Without you, this project would not have been finished, thus I want to thank you all.
