@@ -3,13 +3,20 @@
 Kiddy's is a children's clothing store that uses organic cotton to guarantee the highest quality. Because our designs are distinctive, parents participate in the creation process. Our unique blend of materials, designs, and colours is what makes us who we are.
 
 Welcome to the world of <a href="https://menna-shamloul.github.io/Kiddys" target="_blank" rel="noopener">Kiddy's</a>
+![Kiddy's reponsive page](assets/readme_images/responsive.jpg)
 
 # Contents <!-- omit in toc --> 
 - [User Experience (UX)](#user-experience-ux)
   - [Site Structure](#site-structure)
   - [Design Choices](#design-choices)
-- [Features](#features)
-  - [Existing Features](#existing-features)
+  [Features](#features)
+   [**Home**](<#navigation-menu>)
+    * [Navigation menu](#navigation-menu)
+    * [Photo](<#photo>)
+    * [About us](<#about-us>)
+    * [Footer](<#footers>)
+   [**shop**](<#shop>)
+   
   - [Technologies Used](#technologies-used)
   - [Testing](#testing)
     - [Validator Testing](#validator-testing)
@@ -21,6 +28,7 @@ Welcome to the world of <a href="https://menna-shamloul.github.io/Kiddys" target
     - [Content](#content)
     - [Media](#media)
     - [Acknowledgements](#acknowledgements)
+
 # User Experience (UX)
 ## Site Structure
 Kiddy's website has four pages. The [home page](index.html) is default loading page,[about us](aboutus.html), [shop](shop.html) and [contact us](Contactus.html) pages are all accessible primarily from the navigation menu.
@@ -45,10 +53,11 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
     * Appear at the top of all pages in the site, it fully responsive and contains links to all page in the site to make it easy to the users.
     * The logo is clickable with a link back to home page for intensify UX.
   
-  ![Navigation bar image]()
+  ![Navigation bar image](assets/readme_images/navibar.jpg)
   [Back to top](<#contents>)
   * ### Photos
   * Located on the home page beneath the logo to attract the users more to the main idea of the site which is kids fashions.
+  ![Homepage image](assets/readme_images/mainimage.jpg)
   * ### Text
   * Located under the hero photo to say wellcome to the users and to describe what is the main idea and purpose for the site.
   * ### Footer
@@ -56,6 +65,7 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
   * The social media presence will help the users with their research into site and will attract the users to connects with Kiddy's.
 * ### About-Us
   * The About Us page provide the users with the details about the site( what kids is and who we are ).
+  ![About us page](assets/readme_images/aus.jpg)
 * ### Shop
   * The shop page contain our kids outfits to show the users our productus and to attract them to our site.
   * The shop page contain kids outfits photots for girls and boys.
@@ -63,6 +73,7 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
   * The Contact Us page provide the users with  the shop address.
   * There is Contact Us form which the users could use to contact us(for purchasing or send feedback messages).
   * It  has 4 inputs (first name, last name, email address, message).
+  ![Contact us page](assets/readme_images/cus.jpg)
 ## Technologies Used
  * HTML5- provides the content and structure for the website.
  * CSS-provides styling.
@@ -83,7 +94,7 @@ Kiddy's is set up to be easy to use. It contains alot of features that the user 
   
  * Accessibility
   * I checked that the colors and the fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
-   
+   ![Accessibility page image](assets/readme_images/performance.jpg)
 ## Deployment
 ### To deploy the project
 The sit was deployed to GitHub pages. The steps to deploy;
@@ -91,7 +102,7 @@ The sit was deployed to GitHub pages. The steps to deploy;
  2. In Settings tab, move to the **Pages** tab on the left hand side.
  3. Under **Source**, select the branch to **main** then click **save**.
  4. After that the page will be automatically refreshed with detailed ribbon display to indicated the successful deployment.
-![GitHub pages deployed image]()
+![GitHub pages deployed image](assets/readme_images/deployment.jpg)
 ###  To fork the repository on GitHub
 A copy of the Github Repository can be made by forking the Github account. this copy can be viewed and changes can be made to the copy. Take the following steps to fork the Repository:
 
