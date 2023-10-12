@@ -9,14 +9,20 @@ Welcome to the world of <a href="https://menna-shamloul.github.io/Kiddys" target
 - [User Experience (UX)](#user-experience-ux)
   - [Site Structure](#site-structure)
   - [Design Choices](#design-choices)
-  [Features](#features)
-   [**Home**](<#navigation-menu>)
-    * [Navigation menu](#navigation-menu)
-    * [Photo](<#photo>)
+  *[**Features**](#features)
+    * [**Home**](<#navigation-menu>)
+     * [Navigation menu](#navigation-menu)
+     * [Photo](<#photo>)
+     * [Footer](<#footers>)
     * [About us](<#about-us>)
-    * [Footer](<#footers>)
-   [**shop**](<#shop>)
-   
+       * About-us
+       * photo
+    * [Shop](<#shop>)
+       * photos
+    * [Contact Us](<#contact-us>)
+       * Contact details
+       * Design Query form
+       
   - [Technologies Used](#technologies-used)
   - [Testing](#testing)
     - [Validator Testing](#validator-testing)
