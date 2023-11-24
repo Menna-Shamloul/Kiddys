@@ -1,4 +1,4 @@
-
+/* google font import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
 * {
@@ -7,6 +7,7 @@
     box-sizing: border-box;
     
 }
+/* general styles for headings and logo */
 body{
     min-height: 100vh;
     display: flex;
@@ -30,6 +31,7 @@ h1, h2{
     margin-left: 30px;
 
 }
+/* navigation links */
 #menu{
     font-size: 110%;
     letter-spacing: 4px;
@@ -44,6 +46,7 @@ h1, h2{
     text-decoration: none;
     color: inherit;
 }
+/* style mouse hover and active menu links */
 #menu a:hover{
     border-bottom:1px solid #000000 ;
 }
@@ -61,6 +64,7 @@ nav{
     top: 100%;
 }
 
+/* nav toggle */
 #nav-toggle:checked~nav{
     display: block;
 }
@@ -71,6 +75,7 @@ nav{
     font-size: 2rem;
 
 }
+/* hero image style */
 #hero-outer{
     height: 600px;
     width: 100%;
@@ -85,6 +90,7 @@ nav{
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
+/* create level of zoom in hero animation */
 @keyframes hero-zoom{
     from{transform: scale(1);
 
@@ -94,6 +100,7 @@ nav{
 
     }
 }
+/* header style */
 header{
     background-color: #ffffff;
     padding: 0 1rem;
@@ -110,6 +117,7 @@ header a{
     text-decoration: none;
     color: inherit;
 }
+/* main content */
 main{
     background-color: #ffffff;
     flex: 1 0 auto;
@@ -117,6 +125,7 @@ main{
     display: flex;
     flex-direction: column;
 }
+/* style welcome section text and image */
 #kids-shop{
    width: 90%;
    margin: 20px auto;
@@ -136,6 +145,7 @@ main{
     background:url("../images/end-image.jpg") no-repeat center center/cover;
     
 }
+/* style footer */
 footer{
     background-color: #ffffff;
     height: 150px;
@@ -155,6 +165,7 @@ footer{
     padding: 5%;
     color: #3a3a3a;
 }
+/*  style image in about us page */
 #cover-image{
     height: 600px;
     width: 100%;
@@ -163,6 +174,7 @@ footer{
 #shop-profile{
     height: 600px;
 }
+/* style text for about us page*/
 #shop-profile> p{
    padding: 0 20px;
 }
@@ -172,6 +184,7 @@ footer{
     font-size: 280%;
     letter-spacing: 3px;
 }
+/* style outfits section in shop page */
 #kids-outfits{
     max-width: 900px;
     margin: auto;
@@ -179,7 +192,7 @@ footer{
 
 }
 
-  
+/* style title in shop page */
 #kiddy{
     text-align: center;
     font-size: 2.5rem;
@@ -192,6 +205,7 @@ footer{
     margin:2rem 0 0;
 }
 
+/* style all image in shop page and style text under images */
 .products> img{
     display: block;
     width: 100%;
@@ -200,6 +214,7 @@ footer{
     padding: 0.8rem;
     text-align: center;
 }
+/* style background cover in contact us page */
 #contactus{
     background-image: url("../images/contactus-image.jpg");
     background-size: cover;
@@ -207,6 +222,7 @@ footer{
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
+/* style the form in contacr us page */
 #contactus-form{
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
@@ -229,6 +245,7 @@ footer{
     border-radius: 2px;
     padding: 0 5px;
 }
+/* style send button */
 .join-button{
     margin-top: 20px;
     border-radius: 2px;
@@ -237,12 +254,14 @@ footer{
     background-color: #000000;
     color: #ffffff;
 }
+/* media query: large or landscape phones(576 px and up) */
 @media screen and (min-width:576px){
     #cloth{
         column-count: 2;
         column-gap: 0;
     }
 }
+/* media query:tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     nav{
         display: block;
@@ -288,6 +307,7 @@ footer{
         color: #ffffff;
     }
 }
+/* large devices ( laptops and desktops, 992px and up ) */
 @media screen and (min-width:992px){
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a
